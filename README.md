@@ -2,7 +2,7 @@
 
  
  $ pip install tqdm 
- $ git clone https://github.com/SilentVirtualCriminalGang/passcrack
+ $ git clone https://github.com/SilentVirtualCriminalGang/passcrack <br>
  $ cd passcrack 
  $ python passcrack.py 
 
